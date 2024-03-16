@@ -5,7 +5,7 @@
 
 
 ## Program 1: Display Personal Information
-Write a Dart program using variables to display your name, age, school, and a hobby. Print it in one logical sentence.
+- [ ] Write a Dart program using variables to display your name, age, school, and a hobby. Print it in one logical sentence.
 
 ## Program 2: Perform Mathematical Operations with Functions
 Write a Dart program that performs two mathematical operations using functions.
